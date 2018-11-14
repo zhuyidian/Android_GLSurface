@@ -1,0 +1,19 @@
+#Internal package file, do not edit.
+#Wed Nov 14 14:57:17 CST 2018
+1.base=E\:\\ydzhu_git\\demo\\testOpenGL\\VideoDecodeOnGLSurface\\app\\build\\intermediates\\assets\\debug
+2.path=IVC_VShader_Preview.sh
+0.baseType=DIRECTORY
+3.baseType=DIRECTORY
+2.base=E\:\\ydzhu_git\\demo\\testOpenGL\\VideoDecodeOnGLSurface\\app\\build\\intermediates\\assets\\debug
+3.set=DEX
+2.set=ASSET
+1.baseType=DIRECTORY
+3.path=classes.dex
+count=4
+1.set=ASSET
+0.path=IVC_FShader_Preview.sh
+3.base=E\:\\ydzhu_git\\demo\\testOpenGL\\VideoDecodeOnGLSurface\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.set=ASSET
+0.base=E\:\\ydzhu_git\\demo\\testOpenGL\\VideoDecodeOnGLSurface\\app\\build\\intermediates\\assets\\debug
+2.baseType=DIRECTORY
+1.path=IVC_FShader_Weighted.sh
